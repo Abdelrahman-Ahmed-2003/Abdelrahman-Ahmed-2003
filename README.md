@@ -1,93 +1,115 @@
-# Hi there, I'm Abdelrahman Ahmed Adel 👋
-
-A results-driven Software Engineer graduated from the **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI)**. Specializing as a **Mobile Application Developer (Flutter)** while actively expanding into **ASP.NET Core Backend Engineering** to architect comprehensive, intelligent, end-to-end software solutions[cite: 1].
-
-🎯 **Seeking Internship & Junior Opportunities** | Passionate about full-stack engineering, clean code, and business-centric solutions.
-
----
-
-## 🐍 My GitHub Contribution Snake
+<h1 align="center">Hi there, I'm Abdelrahman Ahmed Adel 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelrahman-Ahmed-2003/Abdelrahman-Ahmed-2003/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Grad;Flutter+Mobile+Developer;Learning+.NET+Backend;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **Education**: B.Sc. in Computer Science & AI, Cairo University (GPA: 3.14/4.0)[cite: 1].
-- 🤖 **AI Driven**: Graced with a major in Artificial Intelligence, I am deeply excited about embedding native AI tools, LLMs, and computer vision models directly into practical client-side applications[cite: 1].
-- ⚡ **Current Horizon**: Leveling up my backend capability with deep integration patterns in **.NET, C#, and SQL Server**.
-- 💡 **Core Mantra**: *"Keep it simple, then make it powerful."*
-
----
-
-## 🛠️ Technology Stack & Competencies
-
-### Backend & Core Systems (Actively Expanding 🚀)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Mobile Application Architectures
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![State Management](https://img.shields.io/badge/Cubit%20%2F%20Provider-0175C2?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/MVVM-purple?style=for-the-badge)
-
-### Databases & Cloud Ecosystems
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive%20DB-orange?style=for-the-badge)
-![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+* 🎓 **Education:** Graduated from Cairo University, Faculty of Computer & Artificial Intelligence (Major: Artificial Intelligence | GPA: 3.14/4.0).
+* 🤖 **AI Enthusiast:** Deeply passionate about leveraging computer vision and deep learning models to build accessibility and business-oriented software[cite: 1].
+* 🚀 **Full-Stack Vision:** Combining solid cross-platform mobile expertise in **Flutter** with active architectural mastery in **.NET Backend Development**[cite: 1].
+* 🎯 **Objective:** Seeking professional internship and junior development roles where I can deliver simple yet powerful software systems[cite: 1].
 
 ---
 
-## 📁 Featured Systems Portfolio
+## 🚀 Tech Stack
 
-### 👄 Lip-Reading Accessibility Platform (Graduation Project)
-An intelligent, AI-powered communication bridging application built to transcribe silent Arabic video speech frames into textual context[cite: 1].
-- **Core Engine**: Implemented robust deep learning frameworks (**MSTCN**, **DSTCN**, and **Conformer architectures**)[cite: 1].
-- **Ecosystem**: Built natively on **Flutter** featuring responsive video history workflows, diacritics toggle controls, and secure data logging through **Firebase Cloud Storage**[cite: 1].
-
-### 🚗 Intelligent Ride-Hailing Framework
-A real-time dual-flow transport scheduling network connecting drivers and passengers flawlessly[cite: 1].
-- **Mechanics**: Implemented spatial trip matching algorithms, driver bidding systems, and custom route layout visualizations using **OpenStreetMap**[cite: 1].
-- **State Engine**: Managed live multi-step document verification processing sync paths on top of **Firestore**[cite: 1].
-
-### 💬 Scalable WhatsApp Ecosystem Clone
-A cross-platform real-time chat application prioritizing lightweight synchronization overhead[cite: 1].
-- **Architecture**: Enforced strict **MVVM architectural layout** guidelines using **Cubit** state isolation[cite: 1].
-- **Data Sync**: Powered by a decoupled **Supabase** communication grid handling structural media transfer streams and group creation logic[cite: 1].
-
-### 🛒 Shop-Spot (Developed at Vibe Coding)
-An offline-first restaurant tracking and menu analytical engine built for uninterrupted local operations[cite: 1].
-- Formulated secure persistent caching data layers utilizing local storage modules[cite: 1].
-- Optimized user lookup responsiveness through immediate content skeletons and connectivity-aware system feedbacks[cite: 1].
-
----
-
-## 📊 Developer Metrics & Contribution Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Ahmed-2003&show_icons=true&theme=tokyonight&count_private=true" alt="Abdelrahman's Profile Metrics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Ahmed-2003&layout=compact&theme=tokyonight" alt="Language Specializations" width="48%" />
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Ahmed-2003&theme=tokyonight" alt="Development Intensity Streak" width="97%" />
+### 📱 Mobile Development & State Management
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cubit-0175C2?style=flat&logo=bloc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-purple?style=flat" />
+</p>
+
+### 🛠️ Backend, Cloud & Local Storage (Actively Advancing! ⚡)
+<p>
+  <img src="https://img.shields.io/badge/.NET%20%2F%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive%20DB-blue?style=flat" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Developer Tools
 
-- 💼 **LinkedIn**: [linkedin.com/in/abdelrahmn](https://linkedin.com/in/abdelrahmn)[cite: 1]
-- 📧 **Primary Professional Email**: [eng.abdelrahmanahmed2003@gmail.com](mailto:eng.abdelrahmanahmed2003@gmail.com)[cite: 1]
-- 📄 **Curriculum Vitae**: [📥 Click to View / Download My CV](https://github.com/Abdelrahman-Ahmed-2003/Abdelrahman-Ahmed-2003/blob/main/Abdelrahman_Ahmed_CV.pdf)
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+* **🤖 Lip-Reading Accessibility App (Graduation Project)** 
+  A Native Flutter AI app that utilizes advanced deep learning video model processing arrays (MSTCN, DSTCN, Conformer) to transcribe silent Arabic video speech into readable text strings[cite: 1]. Integrated with Firebase architecture[cite: 1].
+* **🚗 Intelligent Ride-Hailing Framework**
+  A production-ready transportation manager application built with Flutter, matching location vectors across Firestore data feeds, OpenStreetMap interactive route geometries, and multi-step onboarding verification systems[cite: 1].
+* **💬 WhatsApp Client Ecosystem**
+  A secure real-time chatting matrix built using Supabase backend channels, modular components, responsive multi-tab layout definitions, and strict MVVM/Cubit architectures[cite: 1].
+* **🛒 Shop-Spot Discovery Engine**
+  An offline-capable restaurant menu discovery platform designed at Vibe Coding[cite: 1]. Features advanced local caching repositories via device indices and connectivity-aware UX components[cite: 1].
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <sub>Always studying structural patterns, optimizing background threads, and making components robust.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Ahmed-2003&show_icons=true&theme=react&custom_title=Abdelrahman%27s%20Core%20Metrics" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Ahmed-2003&layout=compact&theme=react" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Ahmed-2003&theme=react" alt="Commit Streak" height="150" />
+</p>
+
+<p align="center">
+  📊 <b>Always learning, always improving.</b>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdelrahman-Ahmed-2003/Abdelrahman-Ahmed-2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 📬 Contact & Networks
+
+- **Email:** [eng.abdelrahmanahmed2003@gmail.com](mailto:eng.abdelrahmanahmed2003@gmail.com) | [mr3715708@gmail.com](mailto:mr3715708@gmail.com)[cite: 1]  
+- **LinkedIn:** [linkedin.com/in/abdelrahmn](https://www.linkedin.com/in/abdelrahmn)[cite: 1]  
+- **CV (Download):** [📥 Click to View / Download My Resume](https://github.com/Abdelrahman-Ahmed-2003/Abdelrahman-Ahmed-2003/blob/main/Abdelrahman_Ahmed_CV.pdf)
+
+---
+
+> **“Keep it simple, then make it powerful.”**
