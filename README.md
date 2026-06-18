@@ -99,9 +99,9 @@ An offline-first restaurant tracking and menu analytical engine built for uninte
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn Profile:** [linkedin.com/in/abdelrahmn](https://linkedin.com/in/abdelrahmn)[cite: 1]
+- 💼 **LinkedIn Profile:** [linkedin.com/in/abdelrahmn]([https://linkedin.com/in/abdelrahmn](https://www.linkedin.com/in/abdelrahman-ahmed-b8a1aa25b/))[cite: 1]
 - 📧 **Primary Email:** [eng.abdelrahmanahmed2003@gmail.com](mailto:eng.abdelrahmanahmed2003@gmail.com)[cite: 1]
-- 📄 **Curriculum Vitae:** [📥 Click to View / Download My CV](https://github.com/Abdelrahman-Ahmed-2003/Abdelrahman-Ahmed-2003/blob/main/Abdelrahman_Ahmed_CV.pdf)
+- 📄 **Curriculum Vitae:** [📥 Click to View / Download My CV]([https://github.com/Abdelrahman-Ahmed-2003/Abdelrahman-Ahmed-2003/blob/main/Abdelrahman_Ahmed_CV.pdf](https://drive.google.com/drive/u/0/home))
 
 <p align="center">
   <sub>Always studying structural patterns, optimizing background threads, and making components robust.</sub>
